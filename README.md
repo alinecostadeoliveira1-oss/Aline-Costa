@@ -1,2 +1,4 @@
 # Aline-Costa
-Profissional com mais de 10 anos em vendas e mercado imobiliário, com experiência em relacionamento, análise de perfil e gestão de pipeline. Em transição para TI, cursando Sistemas da Informação. Busco desenvolver conhecimentos em tecnologia, dados, processos e experiência do cliente, conectando negócio e inovação.
+Profissional com sólida trajetória em atendimento ao cliente, gestão de chamados/solicitações e rotinas de operação/backoffice, atualmente em transição para a área de Tecnologia da Informação como graduanda em Sistemas da Informação.
+Com forte capacidade analítica, boa comunicação e escuta ativa, possuo experiência na elaboração de relatórios operacionais, controle de processos e uso de sistemas para acompanhamento de dados (CRM). Busco atuar como Analista de Suporte Jr, aplicando rotinas de atendimento Nível 1, diagnósticos de problemas e suporte técnico ao cliente com foco em agilidade, organização e responsabilidade.
+Principais competências: Suporte Técnico Nível 1 | Atendimento ao Cliente / Help Desk | Registro e Acompanhamento de Chamados | Passagem de Turno & Escalas | Raciocínio Lógico | Python | Informática Básica.
